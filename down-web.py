@@ -2,4 +2,5 @@
 # Скачивание web-страниц #
 ##########################
 
-print("Hello world")
+print("Hello python")
+
